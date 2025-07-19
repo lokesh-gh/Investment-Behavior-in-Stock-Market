@@ -53,7 +53,7 @@ A separate report page titled `Insights` was created using Power BI’s **Text B
 ## 🛠 Tools & Techniques Used
 - **Power BI Desktop** for dashboard development  
 - **Power Query** for data transformation  
-- **DAX** for calculated columns and KPI measures  
+- **DAX** for calculated columns   
 - **Text Box** for writing insights
 
 ---
