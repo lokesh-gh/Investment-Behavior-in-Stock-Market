@@ -68,5 +68,7 @@ A separate report page titled `Insights` was created using Power BI’s **Text B
 ---
 
 ## 🙋 Author
-- **Your Name**  
-- [LinkedIn Profile URL]
+- Lokesh G  
+- [www.linkedin.com/in/lokesh-g-9111ab318]
+
+
